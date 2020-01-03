@@ -1,0 +1,29 @@
+html{
+	background-color: #23272A;
+}
+
+html *{
+	color: white !important;
+}
+
+html .dataTables_wrapper .dataTables_paginate .paginate_button{
+	color: white !important;
+}
+
+table tr{
+	background-color: #23272A !important;
+}
+
+
+
+
+#relicTable{
+	width: 100%;
+    display: block;
+    height: 90vh;
+    overflow-y: scroll;
+    position: relative;
+    top: 20px
+    margin-bottom: 15px;;
+}
+
