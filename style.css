@@ -6,6 +6,10 @@ html *{
 	color: white !important;
 }
 
+html select, html select option{
+	color: #23272A !important;
+}
+
 html .dataTables_wrapper .dataTables_paginate .paginate_button{
 	color: white !important;
 }
